@@ -74,9 +74,9 @@ python kokoro_tts_demo.py
 
 ---
 
-![demo.png](demo.png)
-
 ## Features
+
+![demo.png](demo.png)
 
 - Select from available voices for TTS.
 - Input your own text or choose from sample texts
