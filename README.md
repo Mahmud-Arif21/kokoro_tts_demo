@@ -33,7 +33,7 @@ pip install -q phonemizer torch transformers scipy munch gradio
 ### 3. Clone the Kokoro Model Repository
 Clone the Kokoro model repository from Hugging Face:
 ```bash
-# If you want to download the whole package including large files
+# If you want to clone the whole repository including large files
 git clone https://huggingface.co/geneing/Kokoro
 cd Kokoro
 ```
